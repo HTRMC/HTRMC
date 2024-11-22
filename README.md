@@ -9,7 +9,7 @@ I'm a student and hobbyist passionate about anything rendering-related, from low
 
 ## Projects
 - **[UnrealCraft](link-to-project)**: A Minecraft clone built in Unreal Engine 5 (WIP)
-- **[Zerith](link-to-project)**: My little baby – a voxel engine developed using Vulkan (WIP)
+- **[Zerith](https://github.com/HTRMC/Zerith)**: My little baby – a voxel engine developed using Vulkan (WIP)
 - **[Las Tapas](link-to-project)**: A digital ordering system for a restaurant (WIP)
 
 ## Contact
