@@ -4,12 +4,12 @@ I'm a student and hobbyist passionate about anything rendering-related, from low
 
 ## Skills
 - **Languages:** C++, Java, C#, Python, JavaScript, TypeScript, HTML, CSS, PHP
-- **Technologies:** Prisma, Next.js, React, jQuery, MySQL, OpenGL, Vulkan, GLFW, Arduino
+- **Tools and Frameworks I've Used:** Prisma, Next.js, React, jQuery, MySQL, OpenGL, Vulkan, GLFW, Arduino
 - **Other:** 5 years of experience working in teams using Scrum
 
 ## Projects
 - **[UnrealCraft](link-to-project)**: A Minecraft clone built in Unreal Engine 5 (WIP)
-- **[Zerith](https://github.com/HTRMC/Zerith)**: My little baby – a voxel engine developed using Vulkan (WIP)
+- **[Zerith](https://github.com/HTRMC/Zerith)**: My hobby project – a voxel engine developed using Vulkan (WIP)
 - **[Las Tapas](https://github.com/HTRMC/LasTapas)**: A digital ordering system for a restaurant (WIP)
 
 ## Contact
