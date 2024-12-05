@@ -1,6 +1,6 @@
 # Hi there, I'm Harm (HTRMC)
 
-I'm a student and hobbyist passionate about anything rendering-related, from low-level APIs like Vulkan and OpenGL to creating cool websites. My current goal is to improve significantly in Vulkan and C++.
+I'm a student and hobbyist passionate about anything rendering-related, from low-level APIs like Vulkan and OpenGL to creating cool websites. My current goal is to improve significantly in Vulkan & OpenGL in C++.
 
 ## Skills
 - **Languages:** C++, Java, C#, Python, JavaScript, TypeScript, HTML, CSS, PHP
