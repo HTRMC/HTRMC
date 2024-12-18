@@ -5,7 +5,7 @@ I'm a student and hobbyist passionate about anything rendering-related, from low
 ## Skills
 - **Languages:** C++, Java, C#, Python, JavaScript, TypeScript, HTML, CSS, PHP
 - **Tools and Frameworks I've Used:** Prisma, Next.js, React, jQuery, MySQL, OpenGL, Vulkan, GLFW, Arduino
-- **Other:** 5 years of experience working in teams using Scrum
+- **Other:** 7 years of experience working in teams using Scrum
 
 ## Projects
 - **[UnrealCraft](link-to-project)**: A Minecraft clone built in Unreal Engine 5 (WIP)
