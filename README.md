@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**HTRMC/HTRMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and hobbyist developer passionate about anything rendering-related — from low-level graphics APIs like Vulkan and OpenGL to building interactive websites. My current focus is deepening my expertise in Vulkan and OpenGL using C++.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** C, C++, Java, C#, Python, JavaScript, TypeScript, HTML, CSS, PHP
+- **Tools & Frameworks:** Prisma, NextJS, NestJS, React, jQuery, MySQL, MongoDB, GraphQL, OpenGL, Vulkan, GLFW, Arduino
+- **Programs**: Photoshop, Illustrator, Premiere pro, Blender, Unreal Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Zerith](https://github.com/HTRMC/Zerith)**: A Vulkan-powered voxel engine written in C++ (Work in Progress)
+
+## Contact
+Portfolio coming soon — feel free to check back later.
