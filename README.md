@@ -7,5 +7,6 @@ I'm Harm a student and hobbyist developer passionate about anything rendering-re
 - **Tools & Frameworks:** Prisma, NextJS, NestJS, React, jQuery, MySQL, MongoDB, GraphQL, OpenGL, Vulkan, DirectX12, GLFW, Arduino
 - **Programs**: Photoshop, Illustrator, Premiere pro, Blender, Unreal Engine
 
-## Contact
-Portfolio coming soon — feel free to check back later.
+![HTRMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTRMC&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=dark)
