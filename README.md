@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Harm%20Cox&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=HTRMC&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Rendering+%26+Graphics+Developer;Vulkan+%7C+OpenGL+%7C+Zig+%7C+C%2B%2B;Low-level+systems+enthusiast" />
