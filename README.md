@@ -22,7 +22,7 @@
 
 I’m **Harm**, a student and hobbyist developer with a strong focus on **rendering, graphics programming, and low-level systems**.
 
-I enjoy working close to the metal — building things with **Vulkan, OpenGL, Zig, and C++**, while still being comfortable across the full stack when needed.  
+I enjoy working close to the metal, building things with **Vulkan, OpenGL, Zig, and C++**, while still being comfortable across the full stack when needed.  
 Currently deep-diving into **modern graphics pipelines, performance, and engine architecture**.
 
 ---
