@@ -20,10 +20,12 @@
 
 ## About Me
 
-I’m **Harm**, a student and hobbyist developer with a strong focus on **rendering, graphics programming, and low-level systems**.
+I’m Harm, a student and hobbyist developer with a strong focus on rendering, graphics programming, and low-level systems.
 
-I enjoy working close to the metal, building things with **Vulkan, OpenGL, Zig, and C++**, while still being comfortable across the full stack when needed.  
-Currently deep-diving into **modern graphics pipelines, performance, and engine architecture**.
+I enjoy working close to the metal, building things with Vulkan, OpenGL, Zig, and C++, while still being comfortable across the full stack when needed.  
+Currently deep-diving into modern graphics pipelines, performance, and engine architecture.
+
+Feel free to reach out on Discord https://discord.gg/N28eZs29jC
 
 ---
 
