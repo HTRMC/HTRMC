@@ -39,7 +39,7 @@ Feel free to reach out on Discord https://discord.gg/N28eZs29jC
 
 ---
 
-## Tech Stack
+## What I've worked with
 
 ### Languages
 <p>
