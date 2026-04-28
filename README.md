@@ -25,7 +25,9 @@ I’m Harm, a student and hobbyist developer with a strong focus on rendering, g
 I enjoy working close to the metal, building things with Vulkan, OpenGL, Zig, and C++, while still being comfortable across the full stack when needed.  
 Currently deep-diving into modern graphics pipelines, performance, and engine architecture.
 
-Feel free to reach out on Discord https://discord.gg/N28eZs29jC
+Contact me
+ - Discord: https://discord.gg/N28eZs29jC
+ - Twitter: @TheHTRMC
 
 ---
 
