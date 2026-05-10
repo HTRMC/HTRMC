@@ -1,29 +1,3 @@
-<div align="center">
-
-<!-- Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=HTRMC&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Rendering+%26+low-level+Developer;Vulkan+%7C+OpenGL+%7C+Zig+%7C+C%2B%2B;Low-level+systems+enthusiast" />
-
-<br/>
-
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Focus-Rendering%20%26%20Systems-6e40c9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tech-Zig%20%7C%20C%2B%2B-ec915c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Graphics-Vulkan%20%7C%20OpenGL-5586a4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tools-Unreal%20%7C%20Custom%20Engines-000000?style=for-the-badge" />
-
-</div>
-
----
-
-## About Me
-
-I’m Harm, a student and hobbyist developer with a strong focus on rendering, graphics programming, and low-level systems.
-
-I enjoy working close to the metal, building things with Vulkan, OpenGL, Zig, and C++, while still being comfortable across the full stack when needed.  
-Currently deep-diving into modern graphics pipelines, performance, and engine architecture.
 
 Contact me
  - Discord: https://discord.gg/N28eZs29jC
@@ -73,14 +47,14 @@ Contact me
 <div align="left">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HTRMC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HTRMC&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HTRMC&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-omega-53.vercel.app/api?username=HTRMC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-omega-53.vercel.app/api?username=HTRMC&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff" />
+  <img height="170" src="https://github-readme-stats-two-omega-53.vercel.app/api?username=HTRMC&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=default&hide_border=true&bg_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-omega-53.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-omega-53.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=default&hide_border=true&bg_color=ffffff" />
+  <img height="170" src="https://github-readme-stats-two-omega-53.vercel.app/api/top-langs/?username=HTRMC&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </picture>
 
 </div>
