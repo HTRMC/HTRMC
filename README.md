@@ -71,9 +71,3 @@ Contact me
 - Game development
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=80&section=footer" />
-
-</div>
